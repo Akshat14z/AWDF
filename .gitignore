@@ -7,3 +7,8 @@ dist/
 *.pdf
 submission/
 tools/submission/assets/
+
+# Local helper scripts and scratch artifacts
+generate_all_submissions.py
+create_screenshots.py
+scratch/
